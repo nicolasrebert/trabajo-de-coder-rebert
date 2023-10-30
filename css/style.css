@@ -1,0 +1,44 @@
+.logo{
+    width: 120px;
+    border-radius: 60%;
+}
+.navbar{
+    background-image: linear-gradient(to right top, #051937, #003856, #005a6f, #267c81, #589e8e);
+    ;
+}
+.nav-link{
+    color: white;
+    font-family: cursive;
+
+   
+    
+}
+.gps{
+    margin-top: 40px;
+    height: 150px;
+    width: 150px;
+}
+.copyright{
+    text-align: center;
+    justify-content: center;
+    color: black;
+   
+    
+}
+.footer{
+    background-color: gainsboro;
+    
+    margin-top: 20px;
+}
+.roma{
+    color: white;
+    height: 60px;
+}
+.berlin{
+    color: white;
+    height: 60px;
+}
+.paris{
+    color: white;
+    height: 60px;
+}
