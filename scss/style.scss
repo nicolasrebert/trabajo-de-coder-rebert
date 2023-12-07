@@ -1,3 +1,4 @@
+@import "./base/tipografias";
 .logo{
     width: 120px;
     border-radius: 60%;
@@ -6,9 +7,10 @@
     background-image: linear-gradient(to right top, #051937, #003856, #005a6f, #267c81, #589e8e);
     ;
 }
+
 .nav-link{
     color: white;
-    font-family: cursive;
+    
 
    
     
@@ -28,8 +30,7 @@
 .footer{
     background-color: gainsboro;
     
-    margin-top: 0px;
-    margin-bottom: 0%;
+    margin-top: 20px;
 }
 .roma{
     color: white;
